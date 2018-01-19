@@ -1,0 +1,9 @@
+Building Dancecoin
+
+See doc/readme-qt.rst for instructions on building Dancecoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dancecoin.
+
+See doc/build-*.txt for instructions on building dancecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dancecoin.
